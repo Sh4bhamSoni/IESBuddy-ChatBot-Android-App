@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/send_message_holder"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="6dp"
+    android:paddingTop="8dp">
+
+    <TextView
+        android:id="@+id/text_send_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="6dp"
+        android:autoLink="web"
+        android:background="@drawable/rounded_sender_message_holder"
+        android:linksClickable="true"
+        android:maxWidth="240dp"
+        android:padding="10dp"
+        android:text="hello, hello!"
+        android:textColor="#ffffff"
+        android:textColorLink="#FFFF33"
+        android:textSize="16sp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "470293752302",
+    "firebase_url": "https://ies-buddy.firebaseio.com",
+    "project_id": "ies-buddy",
+    "storage_bucket": "ies-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470293752302:android:23a046f41a05997c",
+        "android_client_info": {
+          "package_name": "com.ssgmail.shubhammsoni.iesbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470293752302-midpmoca8d1gsucf1dm49foia8r49qc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssgmail.shubhammsoni.iesbuddy",
+            "certificate_hash": "e9c366029c7119991ae5d3695ee1e85e7c950260"
+          }
+        },
+        {
+          "client_id": "470293752302-h0i01jvogf8u63q88t8i3kd8g0nst594.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKpN2EPQxSDeYjmanyg-cdZTjP53xBVvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470293752302-h0i01jvogf8u63q88t8i3kd8g0nst594.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
